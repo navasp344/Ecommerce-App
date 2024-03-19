@@ -1,0 +1,10 @@
+.nav-link {
+    color: white; 
+  }
+  .nav-link:hover{
+    color: white;
+  }  
+  
+  .nav-item>.nav-link.active {
+    color: yellow; 
+  }

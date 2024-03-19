@@ -1,0 +1,13 @@
+.offercard{
+    width: 280px;
+    background-color:white;
+}
+.offercardimage{
+    width: 117px;
+    height: 102px;
+    object-fit: cover;
+
+}
+.offercardtxt{
+    font-size: 13px;
+}

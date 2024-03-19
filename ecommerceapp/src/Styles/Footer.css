@@ -1,0 +1,10 @@
+.footer-link {
+    color: #dddddd    ;
+    text-decoration: none;
+    font-family: "Amazon Ember", Arial, sans-serif    ;
+    font-size: 14px;
+
+  }
+  .footer-link:hover{
+    text-decoration: underline;
+  }
